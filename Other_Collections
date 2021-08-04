@@ -1,0 +1,34 @@
+https://github.com/DiUS/java-faker >>> it generates fake data. It's useful when you're developing a new project and need some pretty data for showcase.
+
+Lombok >> removes boiler code 
+
+https://bitbar.com/
+
+https://github.com/reviewdog/reviewdog
+
+https://github.com/ibraheemdev/modern-unix
+
+
+THE LIBRARIES
+ PRODUCTION
+ Guice I Spring
+ OkHttp
+ Retrofit
+ JDeferred
+ RxJava I Reactor
+ MBassador
+ Lombok
+ Slf4j I Log4j2
+
+
+ TEST
+ JUnitParams
+ Mockito
+ Jukito
+ Awaitility
+ Spock
+ WireMock
+
+
+
+
